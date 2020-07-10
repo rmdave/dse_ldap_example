@@ -44,4 +44,6 @@ Now, restart DSE so that the changes take effect.
 
 # Videos
 This play list will have the videos take you quickly go through the use case, overview of what the 
-systems should look like given the above setup, and then the enforcement of the policies -  
+systems should look like given the above setup, and then the enforcement of the policies - 
+https://www.youtube.com/playlist?list=PLl3G86xuJVydH22sJqzGODHebxAmpVc_C
+  
